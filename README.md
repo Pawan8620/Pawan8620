@@ -22,7 +22,7 @@
 <a href="https://kaggle.com/pawan8620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="pawan8620" height="30" width="40" /></a>
 <a href="https://instagram.com/pawan8620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan8620" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/pawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pawan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pawan8620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawan8620" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/pawan8620" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pawan8620" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
